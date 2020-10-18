@@ -1,3 +1,5 @@
+# PSRM-conventional-unconventional-participation
+
 These materials replicate the results reported in Alvarez, Katz, Levin and Nunez, "Conventional and unconventional participation in Latin America:  A hierarchical latent class approach.  The materials here are the same as those in the Harvard Dataverse, which is the official repository of record for these replication files.  
 
 Here's the citation for the material in Dataverse:
